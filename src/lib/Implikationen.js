@@ -1,5 +1,5 @@
 export class ImplikationenGenerator {
   sampleMethod() {
-    return `from generator`;
+    return `Test Nr. 1`;
   }
 }
